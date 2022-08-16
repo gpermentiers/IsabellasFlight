@@ -1,0 +1,42 @@
+1	12:25:37	File loaded from C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:52:32	File closed	
+1	12:52:33	File loaded from C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:54:10	File closed	
+1	12:54:12	Realtime started	
+1	12:54:50	Disconnected	
+1	12:54:50	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 04 (192.168.254.20) : The camera has stopped communicating. 002 - code 09 - camera 06 (192.168.254.23) : The camera has stopped communicating. 003 - code 09 - camera 08 (192.168.254.26) : The camera has stopped communicating.
+1	12:56:58	Realtime started	
+1	12:59:10	Calibration started	
+1	12:59:18	Calibration finished after 8.5156 seconds	
+1	12:59:23	File created	
+1	12:59:25	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220420_125806.qca	
+1	12:59:31	File closed	
+1	13:00:22	Realtime started	
+1	13:32:10	Disconnected	
+1	13:32:10	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 05 (192.168.254.20) : The camera has stopped communicating.
+1	13:44:02	Realtime started	
+1	13:46:13	Calibration started	
+1	13:46:22	Calibration finished after 9.3691 seconds	
+1	13:46:26	File created	
+1	13:46:27	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220420_134508.qca	
+1	13:46:40	File closed	
+1	13:54:29	Realtime started	
+1	15:17:54	Disconnected	
+1	15:48:09	Realtime started	
+1	16:22:58	Calibration started	
+1	16:23:07	Calibration finished after 8.7364 seconds	
+1	16:23:08	File created	
+1	16:23:08	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220420_162151_FAILED.qca	
+1	16:24:30	File closed	
+1	16:24:34	Realtime started	
+1	16:25:54	Calibration started	
+1	16:26:16	Calibration finished after 22.5879 seconds	
+1	16:26:19	File created	
+1	16:26:20	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220420_162448_FAILED.qca	
+1	16:26:39	File closed	
+1	16:26:40	Realtime started	
+1	16:29:05	Calibration started	
+1	16:29:16	Calibration finished after 10.9691 seconds	
+1	16:29:17	File created	
+1	16:29:18	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220420_162757_FAILED.qca	
+1	16:32:54	File closed	

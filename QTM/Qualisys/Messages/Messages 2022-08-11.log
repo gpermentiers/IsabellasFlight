@@ -1,0 +1,29 @@
+1	14:05:30	Realtime started	
+1	14:08:20	Calibration started	
+1	14:08:25	Calibration finished after 5.2560 seconds	
+1	14:08:26	File created	
+1	14:08:26	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Calibrations\20220811_140718.qca	
+1	14:08:43	File closed	
+1	14:09:22	Realtime started	
+1	14:10:05	Disconnected	
+1	14:10:06	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement10.qtm	
+1	14:10:06	File closed	
+1	14:10:07	Realtime started	
+1	15:27:19	Recalibration recommended	Cameras 1 and 5 have residuals (5.1 and 5.7) exceeding the warning level.
+1	15:27:20	File created	
+1	15:27:33	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement7.qtm	
+1	15:27:59	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	15:28:57	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement7.qtm	
+1	15:29:07	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	15:29:33	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement7.qtm	
+1	15:29:33	File closed	
+1	15:29:34	Realtime started	
+1	15:46:34	Disconnected	
+1	15:46:34	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement23.qtm	
+1	15:46:44	File closed	
+1	15:46:45	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+1	15:46:53	File closed	
+1	15:46:54	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement12.qtm	
+1	15:47:02	File closed	
+1	15:47:03	Realtime started	
+1	17:52:44	Disconnected	

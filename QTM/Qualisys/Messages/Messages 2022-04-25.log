@@ -1,0 +1,31 @@
+1	10:17:27	Realtime started	
+1	10:17:33	Disconnected	
+1	10:21:22	Realtime started	
+1	10:21:44	Disconnected	
+1	10:21:44	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.15) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.18) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.17) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.19) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.20) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.21) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.3) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.24) : The camera has stopped communicating. 009 - code 09 - camera 09 (192.168.254.23) : The camera has stopped communicating. 010 - code 09 - camera 10 (192.168.254.25) : The camera has stopped communicating. 011 - code 09 - camera 11 (192.168.254.26) : The camera has stopped communicating.
+1	10:21:49	File loaded from C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	10:23:05	File closed	
+1	10:23:06	Realtime started	
+1	10:24:56	Calibration started	
+1	10:25:02	Calibration finished after 6.7878 seconds	
+1	10:25:05	File created	
+1	10:25:05	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220425_102353.qca	
+1	10:25:20	File closed	
+1	10:34:50	Realtime started	
+1	10:46:11	Disconnected	
+1	10:46:11	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.15) : The camera has stopped communicating. 002 - code 09 - camera 06 (192.168.254.21) : The camera has stopped communicating.
+1	10:47:41	Realtime started	
+1	11:08:37	Calibration started	
+1	11:08:50	Calibration finished after 12.3386 seconds	
+1	11:08:53	File created	
+1	11:08:55	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220425_110735.qca	
+1	11:09:22	File closed	
+1	11:10:25	Realtime started	
+1	12:28:13	Disconnected	
+1	12:28:13	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.15) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.17) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.19) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.20) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.21) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.3) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.24) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.23) : The camera has stopped communicating. 009 - code 09 - camera 09 (192.168.254.25) : The camera has stopped communicating. 010 - code 09 - camera 10 (192.168.254.26) : The camera has stopped communicating.
+1	13:24:04	Realtime started	
+1	14:44:38	Disconnected	
+1	14:44:38	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.15) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.17) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.19) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.20) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.21) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.3) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.24) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.23) : The camera has stopped communicating. 009 - code 09 - camera 09 (192.168.254.25) : The camera has stopped communicating. 010 - code 09 - camera 10 (192.168.254.26) : The camera has stopped communicating.
+1	14:53:51	Realtime started	
+1	16:28:50	Disconnected	
+1	16:28:50	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.15) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.17) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.19) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.20) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.21) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.3) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.24) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.23) : The camera has stopped communicating. 009 - code 09 - camera 09 (192.168.254.25) : The camera has stopped communicating. 010 - code 09 - camera 10 (192.168.254.26) : The camera has stopped communicating.

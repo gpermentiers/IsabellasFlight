@@ -1,0 +1,56 @@
+1	10:48:37	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+1	10:48:48	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	10:48:48	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 1 of the 5314 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+2	10:49:19	Realtime started	
+1	10:49:26	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+1	10:49:26	File closed	
+2	11:16:11	Disconnected	
+2	11:16:11	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+2	11:18:29	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+2	11:18:29	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 1 of the 5314 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+3	11:18:56	Realtime started	
+2	11:26:22	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+2	11:26:22	File closed	
+3	11:42:20	Disconnected	
+3	11:42:20	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+3	11:42:22	File closed	
+3	11:42:23	Realtime started	
+3	11:46:03	Disconnected	
+3	11:46:03	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+3	11:46:05	File closed	
+3	11:46:06	Realtime started	
+3	11:58:33	Disconnected	
+3	11:58:33	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+3	11:58:34	File closed	
+3	11:58:35	Realtime started	
+3	12:16:25	Recalibration recommended	Cameras 3 and 8 have residuals (3.6 and 3.3) exceeding the warning level.
+3	12:16:25	File created	
+3	12:17:09	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement23.qtm	
+3	12:17:12	File closed	
+3	12:17:13	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement22.qtm	
+3	12:17:13	File closed	
+3	12:17:13	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement23.qtm	
+3	12:17:33	No 6D bodies are defined	
+3	12:18:06	Rigid body: Drone added.	The new body definition was added both to the file and to the Project Options.
+3	12:18:06	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 185 of the 6000 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+3	12:19:47	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+3	12:19:47	Not all gaps were filled	One gap out of 4 was filled. The other 3 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+3	12:19:47	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 67 of the 5979 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+3	12:21:11	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement23.qtm	
+3	12:21:15	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+3	12:21:16	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 91 of the 5212 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+3	12:22:11	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+3	12:22:11	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 18 of the 5212 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+3	12:24:40	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+3	12:24:40	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 18 of the 5212 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+4	12:29:15	Realtime started	
+3	12:30:25	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement23.qtm	
+3	12:30:25	File closed	
+4	12:32:23	Disconnected	
+4	12:32:23	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.8) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.14) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.7) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.12) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.10) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.13) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.9) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.11) : The camera has stopped communicating.
+4	12:33:21	Realtime started	
+4	12:51:23	Disconnected	
+4	12:51:23	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement19.qtm	
+4	12:51:24	File closed	
+4	12:51:25	Realtime started	
+4	12:57:30	Disconnected	

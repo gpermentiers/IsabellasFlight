@@ -1,0 +1,67 @@
+1	12:00:48	Realtime started	
+1	12:02:36	Calibration started	
+1	12:02:43	Calibration finished after 6.0694 seconds	
+1	12:02:45	File created	
+1	12:02:46	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Calibrations\20220302_120134.qca	
+1	12:02:50	File closed	
+1	12:02:54	Realtime started	
+1	12:05:14	File created	
+1	12:05:56	Rigid body: Drone added.	The new body definition was added both to the file and to the Project Options.
+1	12:05:57	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 143 of the 753 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	12:06:45	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectoire 1.qtm	
+1	12:07:09	File closed	
+1	12:07:10	Realtime started	
+1	12:07:43	Rigid body: Origin added.	The new body definition was added to the Project Options.
+1	12:22:21	File created	
+1	12:22:48	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:24:29	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:24:29	File closed	
+1	12:24:30	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectoire 1.qtm	
+1	12:24:37	File closed	
+1	12:24:38	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:25:04	Rigid body: Drone added.	The new body definition was added both to the file and to the Project Options.
+1	12:25:06	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 37 of the 3218 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	12:33:46	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:35:04	File closed	
+1	12:35:05	Realtime started	
+1	12:35:13	Disconnected	
+1	12:35:14	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:35:47	File closed	
+1	12:35:48	Realtime started	
+1	12:40:15	Disconnected	
+1	12:40:16	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:40:33	File closed	
+1	12:40:33	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectoire 1.qtm	
+1	12:40:43	File closed	
+1	12:40:43	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:40:52	File closed	
+1	12:40:53	Realtime started	
+1	12:42:08	Disconnected	
+1	12:42:09	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:42:33	File closed	
+1	12:42:34	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectoire 1.qtm	
+1	12:42:43	File closed	
+1	12:42:44	Realtime started	
+1	12:44:17	Recalibration recommended	Camera 6 has very few contributions to the 3D reconstruction.
+1	12:44:18	File created	
+1	12:44:48	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajetory3.qtm	
+1	12:48:55	Rigid body: Drone3 added.	The new body definition was added both to the file and to the Project Options.
+1	12:48:58	Rigid body identification results	Rigid body identification results:  2 successful  1 failed  2 skipped (already identified, or part of an AIM model)
+1	12:49:59	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajetory3.qtm	
+1	12:49:59	File closed	
+1	12:50:00	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:50:08	File closed	
+1	12:50:09	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajetory3.qtm	
+1	13:03:44	File closed	
+1	13:03:45	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectoire 1.qtm	
+1	13:04:01	File closed	
+1	13:04:02	File loaded from C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajetory3.qtm	
+1	13:04:40	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajetory3.qtm	
+1	13:04:40	File closed	
+1	13:04:41	Realtime started	
+1	13:05:59	File created	
+1	13:06:51	Rigid body: Drone4 added.	The new body definition was added both to the file and to the Project Options.
+1	13:06:53	Rigid body identification results	Rigid body identification results:  5 successful  0 failed  2 skipped (already identified, or part of an AIM model)
+1	13:06:54	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 290 of the 290 frames where at least three points were present Body "Drone3": in 139 of the 2644 frames where at least three points were present Body "Drone4": in 25 of the 1627 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	13:08:12	File saved as C:\Users\tumpi\bureau\QTM\Qualisys\Data\Trajectory4.qtm	
+1	13:09:35	File closed	

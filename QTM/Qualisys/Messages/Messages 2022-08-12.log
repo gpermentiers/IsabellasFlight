@@ -1,0 +1,74 @@
+1	10:22:13	Realtime started	
+1	10:26:54	Disconnected	
+1	10:26:54	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.8) : The camera has stopped communicating. 002 - code 09 - camera 02 (192.168.254.14) : The camera has stopped communicating. 003 - code 09 - camera 03 (192.168.254.7) : The camera has stopped communicating. 004 - code 09 - camera 04 (192.168.254.12) : The camera has stopped communicating. 005 - code 09 - camera 05 (192.168.254.10) : The camera has stopped communicating. 006 - code 09 - camera 06 (192.168.254.13) : The camera has stopped communicating. 007 - code 09 - camera 07 (192.168.254.9) : The camera has stopped communicating. 008 - code 09 - camera 08 (192.168.254.11) : The camera has stopped communicating.
+1	10:28:54	Realtime started	
+1	11:12:17	File created	
+1	11:12:33	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\test hover.qtm	
+1	11:13:19	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	11:16:56	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\test hover.qtm	
+1	11:16:58	File closed	
+1	11:16:58	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement26.qtm	
+1	11:17:29	File closed	
+1	11:17:29	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\testHover.qtm	
+1	11:18:39	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\testHover.qtm	
+1	11:18:44	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	11:23:10	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\testHover.qtm	
+1	11:23:12	File closed	
+1	11:23:12	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement7.qtm	
+1	11:23:13	File closed	
+1	11:23:13	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\testHover.qtm	
+1	11:23:15	File closed	
+1	11:23:15	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\Measurement7.qtm	
+1	11:23:21	File closed	
+1	11:23:21	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\TestHover.qtm	
+1	11:23:26	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	11:27:20	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\TestHover.qtm	
+1	11:27:20	File closed	
+1	11:27:44	Realtime started	
+1	11:29:36	File created	
+1	11:29:51	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\TestHover.qtm	
+1	11:30:03	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	11:30:53	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\TestHover.qtm	
+1	11:30:57	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	11:34:36	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\TestHover.qtm	
+1	11:34:36	File closed	
+1	11:34:37	Realtime started	
+1	12:30:19	Rigid body: DroneElCapitan added.	The new body definition was added to the Project Options.
+1	12:32:33	File created	
+1	12:32:37	File closed	
+1	12:32:38	Realtime started	
+1	12:33:48	File created	
+1	12:35:25	Rigid body: DroneElCapitan added.	The new body definition was added both to the file and to the Project Options.
+1	12:35:25	Rigid body identification results	Rigid body identification results:  0 successful  1 failed  2 skipped (already identified, or part of an AIM model)
+1	12:35:25	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "DroneElCapitan": in 1191 of the 1191 frames where at least three points were present Body "DroneElCapitan": in 51 of the 1191 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	12:38:34	File closed	
+1	12:38:35	Realtime started	
+1	12:59:30	Rigid body: DroneElCapitan added.	The new body definition was added to the Project Options.
+1	14:04:55	File created	
+1	14:05:07	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\truv.qtm	
+1	14:05:18	Rigid body identification results	Rigid body identification results:  1 successful  1 failed
+1	14:05:18	Not all gaps were filled	No gaps were filled. The gaps were all longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	14:05:18	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "DroneElCapitan": in 36 of the 4088 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	14:06:11	File closed	
+1	14:06:12	Realtime started	
+1	14:07:58	File created	
+1	14:09:02	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\machin.qtm	
+1	14:09:10	Rigid body identification results	Rigid body identification results:  2 successful  1 failed
+1	14:09:10	Not all gaps were filled	4 gaps out of 27 were filled. The other 23 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	14:09:10	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "DroneElCapitan": in 5 of the 5723 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	14:10:01	File saved as C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\machin.qtm	
+1	14:10:01	File closed	
+1	14:10:02	Realtime started	
+1	15:03:55	Disconnected	
+1	15:03:55	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\CircleSquare.qtm	
+1	15:03:56	File closed	
+1	15:03:57	Realtime started	
+1	15:04:33	Rigid body: DroneIsabella added.	The new body definition was added to the Project Options.
+1	15:05:03	Disconnected	
+1	15:05:04	File loaded from C:\Users\ID2Move-Qualisys\Documents\ISABELLA\QTM\Qualisys\Data\CircleSquare.qtm	
+1	15:05:05	File closed	
+1	15:05:06	Realtime started	
+1	15:08:42	Rigid body: DroneElCapitan added.	The new body definition was added to the Project Options.
+1	15:09:09	Disconnected	
+1	15:09:30	Realtime started	
+1	15:39:30	Disconnected	

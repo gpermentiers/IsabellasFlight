@@ -1,0 +1,253 @@
+1	00:27:44	File closed	
+1	12:44:13	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:33:50	File closed	
+1	16:33:51	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:34:13	File closed	
+1	16:34:14	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:34:36	File closed	
+1	16:34:37	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:35:55	File closed	
+1	16:35:56	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:36:23	File closed	
+1	16:36:24	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:36:54	File closed	
+1	16:36:54	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:37:34	File closed	
+1	16:37:35	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:39:11	File closed	
+1	16:39:12	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:41:36	File closed	
+1	16:41:37	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:42:56	File closed	
+1	16:42:57	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:43:04	File closed	
+1	16:43:05	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:48:20	File closed	
+1	16:48:21	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:50:16	File closed	
+1	16:50:17	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:51:08	File closed	
+1	16:51:09	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:52:16	File closed	
+1	16:52:17	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:52:42	File closed	
+1	16:52:43	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:52:55	File closed	
+1	16:52:56	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:56:54	File closed	
+1	16:56:55	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	16:58:18	File closed	
+1	16:58:19	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	16:58:51	File closed	
+1	16:58:52	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	16:59:30	File closed	
+1	16:59:31	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:01:08	File closed	
+1	17:01:09	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:03:21	File closed	
+1	17:03:23	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:05:46	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:05:46	Not all gaps were filled	One gap out of 10 was filled. The other 9 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:05:46	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 23 of the 5809 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:06:14	File saved as D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:06:18	File closed	
+1	17:06:19	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:10:48	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:10:48	Not all gaps were filled	One gap out of 8 was filled. The other 7 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:10:48	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:12:53	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:12:53	Not all gaps were filled	One gap out of 8 was filled. The other 7 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:12:53	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:15:05	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:15:05	Not all gaps were filled	2 gaps out of 10 were filled. The other 8 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:15:05	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 21 of the 5749 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:15:27	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:15:27	Not all gaps were filled	One gap out of 9 was filled. The other 8 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:15:27	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 23 of the 5811 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:15:42	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:15:42	Not all gaps were filled	One gap out of 8 was filled. The other 7 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:15:42	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:20:21	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:20:22	Not all gaps were filled	One gap out of 8 was filled. The other 7 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:20:22	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:20:42	Rigid body identification results	Rigid body identification results:  2 successful  0 failed
+1	17:20:42	Not all gaps were filled	One gap out of 8 was filled. The other 7 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	17:20:43	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	17:36:51	File saved as D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:36:54	File closed	
+1	17:36:55	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:37:16	File closed	
+1	17:37:17	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory3.qtm	
+1	17:37:21	File closed	
+1	17:37:21	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:37:45	File saved as D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:37:50	File closed	
+1	17:37:51	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:38:31	File closed	
+1	17:38:32	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:39:55	File closed	
+1	17:39:56	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:43:16	File closed	
+1	17:43:17	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:43:41	File closed	
+1	17:43:42	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:46:15	File closed	
+1	17:46:16	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:47:02	File closed	
+1	17:47:03	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:58:30	File closed	
+1	17:58:31	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	17:59:38	File closed	
+1	17:59:39	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:01:05	File closed	
+1	18:01:07	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:03:39	File closed	
+1	18:03:40	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:05:06	File closed	
+1	18:05:08	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:05:17	File closed	
+1	18:05:18	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:06:14	File closed	
+1	18:06:15	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:07:29	File closed	
+1	18:07:30	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:09:53	Rigid body: Origin added.	The new body definition was added both to the file and to the Project Options.
+1	18:09:53	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:10:21	Rigid body identification results	Rigid body identification results:  4 successful  0 failed
+1	18:10:21	Not all gaps were filled	One gap out of 9 was filled. The other 8 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	18:10:21	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:10:29	File saved as D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:10:31	File closed	
+1	18:10:32	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:20:31	File closed	
+1	18:20:33	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:21:28	File closed	
+1	18:21:29	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:21:50	File closed	
+1	18:21:51	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:22:56	File closed	
+1	18:22:57	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:35:27	File closed	
+1	18:35:28	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory1.qtm	
+1	18:35:38	File closed	
+1	18:35:39	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory4.qtm	
+1	18:35:48	File closed	
+1	18:35:49	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:39:08	File closed	
+1	18:39:09	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:45:04	File closed	
+1	18:45:05	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:45:53	File closed	
+1	18:45:54	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:47:11	File closed	
+1	18:47:12	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:48:33	File closed	
+1	18:48:34	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:49:03	File closed	
+1	18:49:04	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:51:31	File closed	
+1	18:51:32	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:51:57	File closed	
+1	18:51:58	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:52:26	File closed	
+1	18:52:27	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:52:52	File closed	
+1	18:52:53	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:54:26	File closed	
+1	18:54:27	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:55:46	File closed	
+1	18:55:47	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:57:02	File closed	
+1	18:57:03	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	18:59:31	File closed	
+1	18:59:32	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:00:21	File closed	
+1	19:00:23	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:00:55	File closed	
+1	19:00:56	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:01:47	File closed	
+1	19:01:48	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:02:14	File closed	
+1	19:02:15	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:03:59	File closed	
+1	19:04:00	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:15:20	File closed	
+1	19:15:21	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:16:27	File closed	
+1	19:16:28	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:21:14	File closed	
+1	19:21:15	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:24:46	File closed	
+1	19:24:47	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:30:47	File closed	
+1	19:30:48	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	19:32:23	File closed	
+1	19:32:24	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:21:16	File closed	
+1	21:21:16	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:22:58	File closed	
+1	21:22:59	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:26:30	File closed	
+1	21:26:31	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:28:25	File closed	
+1	21:28:26	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:30:09	File closed	
+1	21:30:09	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:50:37	File closed	
+1	21:50:38	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:51:50	File closed	
+1	21:51:51	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:53:50	File closed	
+1	21:53:51	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:56:01	File closed	
+1	21:56:02	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	21:58:54	File closed	
+1	21:58:55	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:00:19	File closed	
+1	22:00:20	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:27:17	File closed	
+1	22:27:17	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:28:40	File closed	
+1	22:28:40	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:31:32	File closed	
+1	22:31:33	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:34:00	File closed	
+1	22:34:01	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:45:52	File closed	
+1	22:45:53	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:47:57	File closed	
+1	22:47:57	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:48:14	File closed	
+1	22:48:15	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:49:24	File closed	
+1	22:49:25	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:51:28	File closed	
+1	22:51:29	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:54:22	File closed	
+1	22:54:23	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	22:56:04	File closed	
+1	22:56:04	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:00:52	File closed	
+1	23:00:53	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:02:48	File closed	
+1	23:02:49	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:03:18	File closed	
+1	23:03:19	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:04:45	File closed	
+1	23:04:46	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:05:57	File closed	
+1	23:05:58	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:07:47	File closed	
+1	23:07:48	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:10:25	File closed	
+1	23:10:25	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:16:47	File closed	
+1	23:16:47	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:18:14	File closed	
+1	23:18:14	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:18:33	File closed	
+1	23:18:34	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:20:12	File closed	
+1	23:20:13	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	23:23:22	File closed	
+1	23:23:23	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	

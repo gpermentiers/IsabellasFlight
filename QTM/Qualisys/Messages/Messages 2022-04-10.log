@@ -1,0 +1,24 @@
+1	00:10:56	File closed	
+1	00:10:57	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	00:17:54	File closed	
+1	00:17:56	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	00:25:13	File closed	
+1	00:25:14	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	00:29:23	File closed	
+1	00:29:24	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	00:32:28	File closed	
+1	00:32:29	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	01:40:59	File closed	
+1	12:59:32	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	12:59:54	File closed	
+1	12:59:55	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	13:00:19	File closed	
+1	13:00:20	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	13:02:21	File closed	
+1	13:02:22	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	13:05:01	File closed	
+1	13:05:02	File loaded from D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	16:27:50	Rigid body identification results	Rigid body identification results:  4 successful  0 failed
+1	16:27:50	Not all gaps were filled	One gap out of 9 was filled. The other 8 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+1	16:27:50	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "Drone": in 139 of the 5955 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	16:27:53	File saved as D:\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	

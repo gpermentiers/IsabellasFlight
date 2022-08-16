@@ -1,0 +1,25 @@
+1	03:10:06	File closed	
+1	14:32:06	File loaded from C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory2.qtm	
+1	14:32:09	File closed	
+1	14:35:50	Realtime started	
+1	14:37:23	Disconnected	
+1	14:37:23	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 07 (192.168.254.21) : The camera has stopped communicating. 002 - code 09 - camera 08 (192.168.254.24) : The camera has stopped communicating.
+1	14:38:59	Realtime started	
+1	14:40:33	Disconnected	
+1	14:40:34	File loaded from C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Data\Trajectory1.qtm	
+1	14:40:36	File closed	
+1	14:40:37	Realtime started	
+1	14:41:07	Disconnected	
+1	14:41:07	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 01 (192.168.254.22) : The camera has stopped communicating. 002 - code 09 - camera 03 (192.168.254.17) : The camera has stopped communicating. 003 - code 09 - camera 04 (192.168.254.19) : The camera has stopped communicating. 004 - code 09 - camera 05 (192.168.254.20) : The camera has stopped communicating. 005 - code 09 - camera 07 (192.168.254.24) : The camera has stopped communicating. 006 - code 09 - camera 10 (192.168.254.26) : The camera has stopped communicating.
+1	14:43:33	Realtime started	
+1	14:47:18	Calibration started	
+1	14:47:25	Calibration finished after 6.7402 seconds	
+1	14:47:28	File created	
+1	14:47:29	File saved as C:\Users\tumpi\OneDrive - UCL\Documents\MASTER\Q3\Mémoire\PROJECT\QTM\Qualisys\Calibrations\20220412_144615.qca	
+1	14:47:40	File closed	
+1	14:47:46	Realtime started	
+1	15:31:19	Rigid body: Drone added.	The new body definition was added to the Project Options.
+1	15:36:20	Rigid body: Drone added.	The new body definition was added to the Project Options.
+1	15:39:28	Disconnected	
+1	15:40:08	Realtime started	
+1	16:55:09	Disconnected	
